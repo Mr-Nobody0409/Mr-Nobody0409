@@ -60,12 +60,12 @@ I work across **Data Science**, **Machine Learning**, and **Full-Stack Developme
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Nobody0409&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Nobody0409&layout=compact&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mr-Nobody0409&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mr-Nobody0409&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mr-Nobody0409&theme=transparent&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=Mr-Nobody0409&theme=radical" height="160"/>
 </p>
 
 ---
