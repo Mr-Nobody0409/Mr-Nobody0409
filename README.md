@@ -1,4 +1,4 @@
-# Lohith Reddy B
+# Lohith Reddy Bodumallu
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&pause=1200&color=3F74F9&center=true&vCenter=true&width=600&lines=Backend+%26+Data+Engineer;Building+Scalable+AI+Systems;FastAPI+%7C+ML+%7C+RAG+Pipelines;From+Data+to+Production" />
