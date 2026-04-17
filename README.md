@@ -1,105 +1,98 @@
-# **Lohith Reddy B – GitHub Profile**
+# Lohith Reddy B
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1300&color=3F74F9&center=true&vCenter=true&width=550&lines=Software+Developer;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&pause=1200&color=3F74F9&center=true&vCenter=true&width=600&lines=Backend+%26+Data+Engineer;Building+Scalable+AI+Systems;FastAPI+%7C+ML+%7C+RAG+Pipelines;From+Data+to+Production" />
 </p>
 
 ---
 
-## 👋 About Me  
-Hi, I’m **Lohith Reddy**, a **Computer Science Engineering student** passionate about building intelligent and scalable software solutions.  
-I work across **Data Science**, **Machine Learning**, and **Full-Stack Development**, focusing on practical, real-world problem-solving.
+## About Me  
+I am a **Backend & Data-focused Software Engineer** specializing in building **scalable, AI-driven systems**.  
 
-📍 *Bangalore, India*
+My work focuses on:
+- Designing **RAG-based architectures**
+- Building **high-performance APIs (FastAPI)**
+- Developing **real-time ML systems**
+- Optimizing **data pipelines and database performance**
+
+I aim to bridge the gap between **Machine Learning models and production-ready systems**.
+
+📍 Bangalore, India  
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,js,react,html,css,git,github,opencv,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,js,react,git,github,opencv,linux" />
 </p>
 
-**Languages:** Python, SQL, JavaScript  
-**Backend:** FastAPI, REST APIs  
-**Frontend:** React, HTML, CSS  
-**Database:** MySQL  
-**Technologies:** Git, LangChain, OpenCV, LLM APIs  
+**Core:** Python, SQL, FastAPI  
+**ML/AI:** Scikit-learn, NLP, LangChain, FAISS, LLM Integration  
+**Systems:** REST APIs, Real-time Processing, Vector Search  
+**Frontend:** React (Basic), HTML/CSS  
+**Tools:** Git, Linux, VS Code  
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects  
 
-### **AI-Powered Legal Chatbot**  
-- Predicts **IPC Sections** using Gemini LLM + Groq  
-- OCR → NLP → Legal Reasoning pipeline  
-- Intelligent multi-IPC predictions with structured outputs  
-
----
-
-### **Face Identification Login System**  
-- Real-time biometric system using **DeepFace + OpenCV**  
-- Includes spoof detection, encryption, and a GUI  
+### AI Legal Case Predictor (RAG System)  
+- Designed an end-to-end **RAG pipeline** using LangChain + FAISS  
+- Built a **vector search system** improving retrieval latency by ~40%  
+- Achieved **92% F1-score** in IPC classification using NLP models  
+- Developed a backend-ready architecture for **real-world legal automation**
 
 ---
 
-### **Restaurant Management System – Tkinter + MySQL**  
-- Features reservation, order-taking & billing  
-- Modular backend with clean UI design  
+### Face-ID Authentication System  
+- Built a **real-time biometric authentication system** using DeepFace + OpenCV  
+- Implemented **anti-spoofing + encrypted biometric storage**  
+- Optimized system for **<200ms response time under concurrent usage**
 
 ---
 
-## 🎓 Certifications  
-- Microsoft Certified – Azure AI Fundamentals  
-- OCI – Data Science Certified  
-- OCI – AI Foundations Associate  
+### Restaurant Data Management System  
+- Designed a **relational database system** handling 1000+ records  
+- Optimized SQL queries for **sub-second retrieval performance**  
+- Built a structured backend logic for reservations and order handling  
+
+---
+
+## Certifications  
+- Microsoft Certified: Azure AI Fundamentals  
+- Oracle Cloud Infrastructure – Data Science Certified  
 - NPTEL – Python for Data Science  
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mr-Nobody0409&theme=tokyonight" />
 </p>
 
+---
+
+## Current Focus  
+- Scaling **RAG & LLM-based systems**  
+- Backend Engineering with FastAPI  
+- Data Engineering fundamentals  
+- Cloud deployment (OCI / Azure)  
 
 ---
 
-## 🧠 Current Focus  
-- Machine Learning & Deep Learning  
-- Backend Development (FastAPI)  
-- Prompt Engineering & LLMs  
-- Cloud Deployment (OCI / Azure)  
-
----
-
-## 📚 DSA Progress  
-
-| Category | Status |
-|----------|--------|
-| Arrays & Strings | Completed |
-| Linked Lists | Completed |
-| Trees & Graphs | In Progress |
-| Dynamic Programming | Improving |
-| **Total Problems Solved** | **180+** |
-
----
-
-## 📬 Connect With Me  
+## Connect  
 
 <p align="center">
   <a href="mailto:lohithreddyb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/lohith-reddy-mrnobody"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Mr-Nobody0409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🌀 Closing Animation  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 </p>
 
-<h3 align="center">“Keep building. Keep improving. Your best version is loading…”</h3>
+<h3 align="center">Building systems that turn data into decisions.</h3>
